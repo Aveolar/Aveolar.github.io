@@ -110,7 +110,8 @@ img {
   align-items: center;
   width: 100%;
   height: 100vh;
-  background-image: url(../img/1profilePic.png);
+  background-color: #000;
+  background-image: url(https://res.cloudinary.com/aveolar/image/upload/v1587039344/profilePic_j3dpch.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
